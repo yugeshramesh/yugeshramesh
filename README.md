@@ -1,6 +1,6 @@
 # Hi, I'm Yugesh Ramesh! 👋
 🎓 First-Year CSE (AI & ML) @ SRM 
-📱 Aspiring App Developer | love to code and devleop | Learning code & mechaine learning 
+📱 Aspiring App Developer | ❤️Love to code and develop | Learning code & mechaine learning 
 ---
 
 ## 🚀 About Me
