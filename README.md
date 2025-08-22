@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Yugesh Ramesh! 👋
+🎓 First-Year CSE (AI & ML) at SRM  
+📱 Aspiring App Developer | Learning code & mechaine learning
 
-<!--
-**yugeshramesh/yugeshramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning **Flutter, Dart, and Android Development**
+- 💡 Passionate about building apps that solve real-world problems
+- 🎯 Goal for 2025: Publish at least **3 mobile apps** and contribute to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- **Languages:** Python
+- **Languages learning:** C , C++ , kotlin
+- **Frameworks:** intellij , Android Studio
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📂 Featured Projects
+- [Simple Calculator App](#)
+- [To-Do List App](#)
+
+
+## 📬 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/yugeshramesh/) | [Email](mailto:yugexh99@gmail.com)
+
+
