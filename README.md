@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Flutter, Dart, and Android Development**
+- 🌱 Currently learning **C & C++ , kotlin , and Android Development**
 - 💡 Passionate about building apps that solve real-world problems
 - 🎯 Goal for 2025: Publish at least **3 mobile apps** and contribute to open-source projects
 
